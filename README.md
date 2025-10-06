@@ -40,7 +40,7 @@ To run ResuLLMe locally, the simplest way is to use Docker:
 docker-compose up -d
 ```
 
-This will make the app avaialable at [`https://localhost:8501/`](https://localhost:8501/)
+This will make the app avaialable at http://localhost:8501/
 
 
 ## 🤲 Contributing
